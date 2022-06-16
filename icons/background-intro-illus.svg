@@ -1,0 +1,12 @@
+<svg width="993" height="414" viewBox="0 0 993 414" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.6">
+<circle cx="83" cy="278" r="73" stroke="#EAECEF" stroke-width="20" stroke-linejoin="bevel" stroke-dasharray="40 40"/>
+<line x1="153" y1="145" x2="153" y2="254" stroke="#EAECEF" stroke-width="20" stroke-linejoin="bevel" stroke-dasharray="40 40"/>
+</g>
+<g opacity="0.6">
+<circle cx="915.237" cy="188.236" r="67.2362" transform="rotate(-180 915.237 188.236)" stroke="#F8E6EA" stroke-width="20" stroke-dasharray="40 40"/>
+<line x1="849.404" y1="312.001" x2="849.404" y2="210.57" stroke="#F8E6EA" stroke-width="20" stroke-dasharray="40 40"/>
+</g>
+<circle opacity="0.6" cx="915" cy="37" r="27" stroke="#EAECEF" stroke-width="20"/>
+<circle opacity="0.6" cx="221" cy="377" r="27" stroke="#F8E6EA" stroke-width="20"/>
+</svg>
